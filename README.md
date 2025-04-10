@@ -1,3 +1,3 @@
 **API Authentucation using App-Brewery API**
 
-In this Project i have used App brewery's API to overcome API usage using Java Script 
+In this project, I used App Brewery's API to bypass API usage limitations using JavaScript.
